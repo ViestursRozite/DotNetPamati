@@ -1,2 +1,8 @@
 ﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+
+void MyFunctionName(string myVariableName)
+{
+    Console.WriteLine("Hello, World!");
+}
+
+MyFunctionName("");
